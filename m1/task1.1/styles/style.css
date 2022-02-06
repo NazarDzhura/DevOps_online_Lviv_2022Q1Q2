@@ -1,0 +1,28 @@
+
+body{  
+    font-family:Georgia, Arial, Helvetica, Sans-serif,serif;
+    font-size:15px;
+    color:#000;
+    background:#fff;
+}
+ 
+h1 {
+    font-size:50px;
+}
+ 
+h3 {
+    font-size:22px;
+}
+  
+#header{
+    width:960px;
+    height:120px;
+}
+ 
+ 
+#footer{
+    height: 60px;
+    background: #fff;
+    padding: 15px;
+    clear:both;
+}
